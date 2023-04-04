@@ -8,11 +8,7 @@ https://kunalm01-car-price-prediction-app-pp9gev.streamlit.app/
 ## Dependencies
 The following dependencies are required to run this project:
 
-pandas
-seaborn
-matplotlib
-scikit-learn
-
+pandas  seaborn  matplotlib  scikit-learn
 
 ## Code
 The car_price_prediction.ipynb notebook contains the code for this project. The main steps of the code are as follows:
