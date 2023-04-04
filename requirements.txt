@@ -101,6 +101,7 @@ pathspec
 pexpect 
 pickleshare 
 Pillow==9.4.0
+pip==23.0.1
 platformdirs 
 pluggy 
 ply==3.11
@@ -138,9 +139,7 @@ python-slugify
 pytoolconfig 
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
-pywin32==305.1
 pywin32-ctypes 
-pywinpty 
 PyYAML==6.0
 pyzmq 
 QDarkStyle 
