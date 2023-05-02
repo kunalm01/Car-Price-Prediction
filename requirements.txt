@@ -158,7 +158,6 @@ semver==3.0.0
 Send2Trash 
 sip 
 six 
-sklearn==0.0.post1
 smmap==5.0.0
 sniffio 
 snowballstemmer 
